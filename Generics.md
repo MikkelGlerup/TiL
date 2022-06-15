@@ -27,7 +27,8 @@ Generics make it so a method or class can be used by several different types.
     }
 ```
     
-    Also used for lists
-
+Also used for lists
+    
+```
 List<int> intList = new List<int>();
  ```
