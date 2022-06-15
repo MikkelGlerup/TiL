@@ -32,3 +32,5 @@ Also used for lists
 ```
 List<int> intList = new List<int>();
  ```
+
+[Generic Classes](https://docs.microsoft.com/en-us/dotnet/csharp/fundamentals/types/generics)
