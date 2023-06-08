@@ -8,7 +8,7 @@ Notes of everything I learned along the way
 
 
 ### C#
-- [Generic Classes](C%23/Generics)
+- [Generic Classes](C\#/Generics)
 
 ### IIS
 - [IIS Basics](IIS/IIS-Basics.md)
