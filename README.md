@@ -11,4 +11,4 @@ Notes of everything I learned along the way
 - [Generic Classes](C#/Generics)
 
 ### IIS
-- [IIS Basics](IIS/IIS-Basics)
+- [IIS Basics](IIS/IIS-Basics.md)
