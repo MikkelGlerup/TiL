@@ -1,6 +1,6 @@
 # TiL
-Notes of everything I learned along the way
-[Formatting cheatsheet]([https://www.google.com](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet)
+Notes of everything I learned along the way<br>
+[Formatting cheatsheet](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet)
 
 ## Index
 * [C#](#C#)
