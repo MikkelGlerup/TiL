@@ -8,7 +8,7 @@ Notes of everything I learned along the way
 
 
 ### C#
-- [Generic Classes]([C\#/Generics](https://github.com/MikkelGlerup/TiL/blob/main/C%23/Generics.md))
+- [Generic Classes](C#/Generics.md)
 
 ### IIS
 - [IIS Basics](IIS/IIS-Basics.md)
