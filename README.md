@@ -6,7 +6,7 @@ Notes of everything I learned along the way
 * [IIS](#IIS)
 
 ### C#
-- [Generic Classes](C#/Generics.md)
+- [Generic Classes](C#<!-- -->/Generics.md)
 
 ### IIS
 - [IIS Basics](IIS/IIS-Basics.md)
